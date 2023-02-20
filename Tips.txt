@@ -1,0 +1,5 @@
+py -3 -m venv venv	: Create a venv
+
+venv\Scripts\activate	: active venv
+
+pip install flask	: install flask
